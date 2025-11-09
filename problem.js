@@ -3,4 +3,4 @@
 function even(value){
 return value % 2 ===0 ? "Event":"odd"
 }
-console.log(even(4))
+console.log(even(6))
